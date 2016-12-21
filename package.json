@@ -1,0 +1,23 @@
+{
+  "name": "nodeplus",
+  "version": "1.0.0",
+  "description": "merge node syntax and browser syntax by es6",
+  "main": "module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodeplusjs/nodeplus.git"
+  },
+  "keywords": [
+    "node",
+    "es6"
+  ],
+  "author": "Li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nodeplusjs/nodeplus/issues"
+  },
+  "homepage": "https://github.com/nodeplusjs/nodeplus#readme"
+}
