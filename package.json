@@ -1,6 +1,6 @@
 {
   "name": "nodeplus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "merge node syntax and browser syntax by es6",
   "main": "module.js",
   "scripts": {
